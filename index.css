@@ -1,0 +1,110 @@
+body {
+	font-family: 'Jost', sans-serif;
+	font-size: 22px;
+	color: #4D5053;
+
+}
+.container {
+	
+}
+header {
+	padding-top: 24px;
+
+}
+.img_1 {
+	height: 46px;
+    padding-left: 98px;
+}
+.link {
+	margin-right: 40px;
+
+}
+.link-1 {
+	    margin-left: 342px;
+	
+}
+.contact_us {
+	margin-right: 118px;
+}
+
+a {
+	text-decoration: none;
+	
+	font-size: 20px;
+}
+.first {
+	margin-top: 28px
+}
+.con_f {
+	background: url(img/bkg.png);
+	height: 760px;
+	background-size: contain;
+}
+.text_first {
+	margin-left: 96px;
+    margin-top: 170px;
+    max-width: 590px;
+
+}
+h1 {
+	font-family: 'DM Serif Display', serif;
+	font-size: 76px;
+	word-spacing: -6px;
+	line-height: 90px;
+	color: #292F36;
+	margin-bottom: 14px;
+}
+.text_first p {
+	line-height: 32px;
+	word-spacing: -4px;
+
+}
+.text_first button {
+	font-size: 18px;
+	padding: 18px 40px;
+    margin-top: 15px;
+    border-radius: 15px;
+}
+
+.second {
+	margin-top: 148px;
+}
+.card {
+	margin-left: auto;
+	margin-right: auto;
+	border: none;
+	width: 400px;
+}
+.card-body {
+	width: 400px;
+}
+.card a {
+
+}
+h3 {
+	font-family: 'DM Serif Display', bold;
+	font-size: 25px;
+    margin-bottom: 18px;
+    padding-left: 34px;
+
+
+}
+.blocks {
+	padding-top: 140px;
+
+}
+.img-wrap {
+	position: relative;
+	z-index: 0;
+}
+.picture-label {
+	position: absolute;
+	z-index: 1;
+	left: 24px;
+	bottom: 29px;
+	padding: 10px;
+	font-size: 14px;
+	background-color: white;
+	border-radius: 5px;
+}
+
