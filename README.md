@@ -13,9 +13,9 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discordapp.com/users/mariia1996" alt="Discord" title="Dev Pro Tips Discord Server"><img width="42px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dou.ua/users/mariya-svinitskaya"><img width="42px" alt="Dev.to" title="Duo" src="https://i.imgur.com/dkb8yZw.png"></a>
+  <a href="https://dou.ua/users/mariya-svinitskaya"><img width="42px" alt="Dev.to" title="Duo" src="https://i.imgur.com/YGoJJkI.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.xing.com/profile/Mariia_Svinitska"><img width="42px" alt="Ko-fi" title="Xing" src="https://i.imgur.com/0GqPJ2K.png"/></a>
+  <a href="https://www.xing.com/profile/Mariia_Svinitska"><img width="42px" alt="Ko-fi" title="Xing" src="https://i.imgur.com/N5WDBHS.png"/></a>
 </p>
 
 <br/>
